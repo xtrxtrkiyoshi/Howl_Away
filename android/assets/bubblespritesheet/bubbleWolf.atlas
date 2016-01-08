@@ -1,0 +1,46 @@
+
+bubbleWolf.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bubble_wolf004
+  rotate: false
+  xy: 2, 2
+  size: 699, 618
+  orig: 699, 618
+  offset: 0, 0
+  index: -1
+
+bubbleWolf2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bubble_wolf001
+  rotate: false
+  xy: 2, 2
+  size: 645, 577
+  orig: 645, 577
+  offset: 0, 0
+  index: -1
+bubble_wolf003
+  rotate: false
+  xy: 2, 2
+  size: 645, 577
+  orig: 645, 577
+  offset: 0, 0
+  index: -1
+
+bubbleWolf3.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bubble_wolf002
+  rotate: false
+  xy: 2, 2
+  size: 645, 577
+  orig: 645, 577
+  offset: 0, 0
+  index: -1

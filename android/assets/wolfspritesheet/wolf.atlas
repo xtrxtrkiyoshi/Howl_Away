@@ -1,0 +1,40 @@
+
+wolf.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wolf001
+  rotate: false
+  xy: 2, 424
+  size: 538, 420
+  orig: 538, 420
+  offset: 0, 0
+  index: -1
+wolf003
+  rotate: false
+  xy: 2, 424
+  size: 538, 420
+  orig: 538, 420
+  offset: 0, 0
+  index: -1
+wolf002
+  rotate: false
+  xy: 2, 2
+  size: 538, 420
+  orig: 538, 420
+  offset: 0, 0
+  index: -1
+
+wolf2.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wolf004
+  rotate: false
+  xy: 2, 2
+  size: 538, 420
+  orig: 538, 420
+  offset: 0, 0
+  index: -1
