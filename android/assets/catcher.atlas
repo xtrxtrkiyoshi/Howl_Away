@@ -1,0 +1,34 @@
+
+catcher.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hostile_ac1
+  rotate: false
+  xy: 2, 544
+  size: 357, 269
+  orig: 357, 269
+  offset: 0, 0
+  index: -1
+hostile_ac2
+  rotate: false
+  xy: 2, 273
+  size: 357, 269
+  orig: 357, 269
+  offset: 0, 0
+  index: -1
+hostile_ac3
+  rotate: false
+  xy: 361, 544
+  size: 357, 269
+  orig: 357, 269
+  offset: 0, 0
+  index: -1
+hostile_ac4
+  rotate: false
+  xy: 2, 2
+  size: 357, 269
+  orig: 357, 269
+  offset: 0, 0
+  index: -1

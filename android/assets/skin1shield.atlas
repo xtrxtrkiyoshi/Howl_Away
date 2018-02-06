@@ -1,0 +1,132 @@
+
+skin1shield.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+skin1.1.1_bubble
+  rotate: false
+  xy: 2, 878
+  size: 183, 144
+  orig: 183, 144
+  offset: 0, 0
+  index: -1
+skin1.1.2_bubble
+  rotate: false
+  xy: 2, 732
+  size: 183, 144
+  orig: 183, 144
+  offset: 0, 0
+  index: -1
+skin1.1.3_bubble
+  rotate: false
+  xy: 187, 878
+  size: 183, 144
+  orig: 183, 144
+  offset: 0, 0
+  index: -1
+skin1.1.4_bubble
+  rotate: false
+  xy: 2, 586
+  size: 183, 144
+  orig: 183, 144
+  offset: 0, 0
+  index: -1
+skin1.1.5_bubble
+  rotate: false
+  xy: 187, 732
+  size: 183, 144
+  orig: 183, 144
+  offset: 0, 0
+  index: -1
+skin1.1.6_bubble
+  rotate: false
+  xy: 372, 878
+  size: 183, 144
+  orig: 183, 144
+  offset: 0, 0
+  index: -1
+skin1.2.1_bubble
+  rotate: false
+  xy: 2, 440
+  size: 183, 144
+  orig: 183, 144
+  offset: 0, 0
+  index: -1
+skin1.2.2_bubble
+  rotate: false
+  xy: 187, 586
+  size: 183, 144
+  orig: 183, 144
+  offset: 0, 0
+  index: -1
+skin1.2.3_bubble
+  rotate: false
+  xy: 372, 732
+  size: 183, 144
+  orig: 183, 144
+  offset: 0, 0
+  index: -1
+skin1.2.4_bubble
+  rotate: false
+  xy: 557, 878
+  size: 183, 144
+  orig: 183, 144
+  offset: 0, 0
+  index: -1
+skin1.2.5_bubble
+  rotate: false
+  xy: 2, 294
+  size: 183, 144
+  orig: 183, 144
+  offset: 0, 0
+  index: -1
+skin1.2.6_bubble
+  rotate: false
+  xy: 187, 440
+  size: 183, 144
+  orig: 183, 144
+  offset: 0, 0
+  index: -1
+skin1.3.1_bubble
+  rotate: false
+  xy: 372, 586
+  size: 183, 144
+  orig: 183, 144
+  offset: 0, 0
+  index: -1
+skin1.3.2_bubble
+  rotate: false
+  xy: 557, 732
+  size: 183, 144
+  orig: 183, 144
+  offset: 0, 0
+  index: -1
+skin1.3.3_bubble
+  rotate: false
+  xy: 742, 878
+  size: 183, 144
+  orig: 183, 144
+  offset: 0, 0
+  index: -1
+skin1.3.4_bubble
+  rotate: false
+  xy: 2, 148
+  size: 183, 144
+  orig: 183, 144
+  offset: 0, 0
+  index: -1
+skin1.3.5_bubble
+  rotate: false
+  xy: 2, 2
+  size: 183, 144
+  orig: 183, 144
+  offset: 0, 0
+  index: -1
+skin1.3.6_bubble
+  rotate: false
+  xy: 187, 294
+  size: 183, 144
+  orig: 183, 144
+  offset: 0, 0
+  index: -1

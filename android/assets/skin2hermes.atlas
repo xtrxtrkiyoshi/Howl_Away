@@ -1,0 +1,48 @@
+
+skin2hermes.png
+size: 512,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+skin2.1_hermes
+  rotate: false
+  xy: 2, 530
+  size: 201, 262
+  orig: 201, 262
+  offset: 0, 0
+  index: -1
+skin2.2_hermes
+  rotate: false
+  xy: 2, 266
+  size: 201, 262
+  orig: 201, 262
+  offset: 0, 0
+  index: -1
+skin2.3_hermes
+  rotate: false
+  xy: 205, 530
+  size: 201, 262
+  orig: 201, 262
+  offset: 0, 0
+  index: -1
+skin2.4_hermes
+  rotate: false
+  xy: 2, 2
+  size: 201, 262
+  orig: 201, 262
+  offset: 0, 0
+  index: -1
+skin2.5_hermes
+  rotate: false
+  xy: 205, 266
+  size: 201, 262
+  orig: 201, 262
+  offset: 0, 0
+  index: -1
+skin2.6_hermes
+  rotate: false
+  xy: 205, 2
+  size: 201, 262
+  orig: 201, 262
+  offset: 0, 0
+  index: -1

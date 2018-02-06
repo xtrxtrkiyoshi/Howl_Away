@@ -1,0 +1,145 @@
+
+skin1hermes.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+skin1.1
+  rotate: false
+  xy: 2, 530
+  size: 201, 262
+  orig: 201, 262
+  offset: 0, 0
+  index: -1
+skin1.1.1_hermes
+  rotate: false
+  xy: 2, 530
+  size: 201, 262
+  orig: 201, 262
+  offset: 0, 0
+  index: -1
+skin1.1.2_hermes
+  rotate: false
+  xy: 2, 266
+  size: 201, 262
+  orig: 201, 262
+  offset: 0, 0
+  index: -1
+skin1.1.3_hermes
+  rotate: false
+  xy: 205, 530
+  size: 201, 262
+  orig: 201, 262
+  offset: 0, 0
+  index: -1
+skin1.1.4_hermes
+  rotate: false
+  xy: 2, 2
+  size: 201, 262
+  orig: 201, 262
+  offset: 0, 0
+  index: -1
+skin1.1.5_hermes
+  rotate: false
+  xy: 205, 266
+  size: 201, 262
+  orig: 201, 262
+  offset: 0, 0
+  index: -1
+skin1.1.6_hermes
+  rotate: false
+  xy: 408, 530
+  size: 201, 262
+  orig: 201, 262
+  offset: 0, 0
+  index: -1
+skin1.2.1_hermes
+  rotate: false
+  xy: 205, 2
+  size: 201, 262
+  orig: 201, 262
+  offset: 0, 0
+  index: -1
+skin1.2.2_hermes
+  rotate: false
+  xy: 408, 266
+  size: 201, 262
+  orig: 201, 262
+  offset: 0, 0
+  index: -1
+skin1.2.3_hermes
+  rotate: false
+  xy: 611, 530
+  size: 201, 262
+  orig: 201, 262
+  offset: 0, 0
+  index: -1
+skin1.2.4_hermes
+  rotate: false
+  xy: 408, 2
+  size: 201, 262
+  orig: 201, 262
+  offset: 0, 0
+  index: -1
+skin1.2.5_hermes
+  rotate: false
+  xy: 611, 266
+  size: 201, 262
+  orig: 201, 262
+  offset: 0, 0
+  index: -1
+skin1.2.6_hermes
+  rotate: false
+  xy: 814, 530
+  size: 201, 262
+  orig: 201, 262
+  offset: 0, 0
+  index: -1
+skin1.3.1_hermes
+  rotate: false
+  xy: 611, 2
+  size: 201, 262
+  orig: 201, 262
+  offset: 0, 0
+  index: -1
+skin1.3.2_hermes
+  rotate: false
+  xy: 814, 266
+  size: 201, 262
+  orig: 201, 262
+  offset: 0, 0
+  index: -1
+skin1.3.3_hermes
+  rotate: false
+  xy: 814, 2
+  size: 201, 262
+  orig: 201, 262
+  offset: 0, 0
+  index: -1
+
+skin1hermes2.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+skin1.3.4_hermes
+  rotate: false
+  xy: 2, 2
+  size: 201, 262
+  orig: 201, 262
+  offset: 0, 0
+  index: -1
+skin1.3.5_hermes
+  rotate: false
+  xy: 205, 2
+  size: 201, 262
+  orig: 201, 262
+  offset: 0, 0
+  index: -1
+skin1.3.6_hermes
+  rotate: false
+  xy: 408, 2
+  size: 201, 262
+  orig: 201, 262
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,8 @@
+
+
+WOLF
+- Animation animation
+- TextureAtlas frames
+- Rectangle bounds
+- Vector2 velocity
+

@@ -1,0 +1,27 @@
+
+carSplat.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+car_dead1
+  rotate: false
+  xy: 2, 278
+  size: 516, 136
+  orig: 516, 136
+  offset: 0, 0
+  index: -1
+car_dead2
+  rotate: false
+  xy: 2, 140
+  size: 516, 136
+  orig: 516, 136
+  offset: 0, 0
+  index: -1
+car_dead3
+  rotate: false
+  xy: 2, 2
+  size: 516, 136
+  orig: 516, 136
+  offset: 0, 0
+  index: -1

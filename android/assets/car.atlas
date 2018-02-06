@@ -1,0 +1,27 @@
+
+car.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+car_default1
+  rotate: false
+  xy: 2, 278
+  size: 512, 136
+  orig: 512, 136
+  offset: 0, 0
+  index: -1
+car_default2
+  rotate: false
+  xy: 2, 140
+  size: 512, 136
+  orig: 512, 136
+  offset: 0, 0
+  index: -1
+car_default3
+  rotate: false
+  xy: 2, 2
+  size: 512, 136
+  orig: 512, 136
+  offset: 0, 0
+  index: -1

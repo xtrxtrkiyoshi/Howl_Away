@@ -1,0 +1,40 @@
+
+carDead.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+car_death1
+  rotate: false
+  xy: 2, 432
+  size: 564, 428
+  orig: 564, 428
+  offset: 0, 0
+  index: -1
+car_death2
+  rotate: false
+  xy: 2, 2
+  size: 564, 428
+  orig: 564, 428
+  offset: 0, 0
+  index: -1
+
+carDead2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+car_death3
+  rotate: false
+  xy: 2, 432
+  size: 564, 428
+  orig: 564, 428
+  offset: 0, 0
+  index: -1
+car_death4
+  rotate: false
+  xy: 2, 2
+  size: 564, 428
+  orig: 564, 428
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+littlegirl.png
+size: 128,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+civilian_girl1
+  rotate: false
+  xy: 2, 260
+  size: 83, 127
+  orig: 83, 127
+  offset: 0, 0
+  index: -1
+civilian_girl2
+  rotate: false
+  xy: 2, 131
+  size: 83, 127
+  orig: 83, 127
+  offset: 0, 0
+  index: -1
+civilian_girl3
+  rotate: false
+  xy: 2, 2
+  size: 83, 127
+  orig: 83, 127
+  offset: 0, 0
+  index: -1

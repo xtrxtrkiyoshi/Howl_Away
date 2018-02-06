@@ -1,0 +1,27 @@
+
+skin2werewolf.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+skin2_werewolf1
+  rotate: false
+  xy: 2, 181
+  size: 400, 177
+  orig: 400, 177
+  offset: 0, 0
+  index: -1
+skin2_werewolf2
+  rotate: false
+  xy: 2, 2
+  size: 400, 177
+  orig: 400, 177
+  offset: 0, 0
+  index: -1
+skin2_werewolf3
+  rotate: false
+  xy: 404, 181
+  size: 400, 177
+  orig: 400, 177
+  offset: 0, 0
+  index: -1
